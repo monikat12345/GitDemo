@@ -2,12 +2,12 @@ import pytest
 
 @pytest.mark.xfail
 def test_firstProgram():
-    print("hello")
+    print("hello lovely world")
 
 
 @pytest.mark.smoke #custome mark
 def test_secondDCard(setup):
-    print("day")
+    print("day night")
 
 
 def test_crossBrowser(crossBrowser):
