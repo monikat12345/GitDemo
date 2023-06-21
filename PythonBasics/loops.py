@@ -1,11 +1,11 @@
 a=2
 if a==2:
-    print("true")
-    print("does match")
+    print("This is true")
+    print("It does match")
 else:
-    print("false")
+    print("This is false")
 
-print("we are out of condition")
+print("we are now out of condition")
 
 #for loop
 
