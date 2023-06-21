@@ -14,4 +14,3 @@ print("{} {}".format("value is", b)) #concatenate two different data types
 print(type(c))
 
 print("Have a nice day")
-    

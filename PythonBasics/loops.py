@@ -5,7 +5,7 @@ if a==2:
 else:
     print("This is false")
 
-print("we are now out of condition")
+print("we are now out of condition,all seems perfect")
 
 #for loop
 
